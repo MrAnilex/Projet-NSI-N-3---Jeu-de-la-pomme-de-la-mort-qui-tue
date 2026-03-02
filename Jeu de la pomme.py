@@ -6,7 +6,7 @@ import os
 # ==========================================
 # CONFIGURATION DU JEU (pour la bombe)
 # ==========================================
-VRAIE_NUKE_ACTIVE = False  # Mets à True pour VRAIMENT éteindre le PC. (À vos risques et périls)
+VRAIE_NUKE_ACTIVE = False  # Mets à True pour VRAIMENT éteindre le PC. (À vos risques et périls) (justement le "mode spécial")
 
 # Initialisation obligatoire de Pygame et du module audio
 pygame.init()

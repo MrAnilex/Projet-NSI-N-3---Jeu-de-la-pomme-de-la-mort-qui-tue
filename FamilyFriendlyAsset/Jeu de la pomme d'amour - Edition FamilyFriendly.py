@@ -165,7 +165,7 @@ while True:
                 jeu_en_cours = False # GAME OVER CLASSIQUE
                 if son_mort:
                     son_mort.play()
-                raison_mort = "Vouh zeit maure."
+                raison_mort = "Il semble malheureusement que ce fruit était avarié, cela est fort dommage :("
             elif bombes[i]["y"] > HAUTEUR:
                 bombes.pop(i)
 
@@ -185,7 +185,7 @@ while True:
                 
                 # Quoi qu'il arrive, ça crashe le jeu violemment
                 pygame.quit()
-                print("FATAL ERROR : NUKE INTERCEPTED. GOODBYE.")
+                print("SAY GOODBYE !!")
                 sys.exit()
 
             elif nukes[i]["y"] > HAUTEUR:
@@ -231,7 +231,7 @@ while True:
 
     # Affichage de l'écran de fin si on a touché une bombe
     if not jeu_en_cours:
-        texte_fin = police_gameover.render("GAME OVER", True, ROUGE)
+        texte_fin = police_gameover.render("Oh non! c'est perdu :'(", True, ROUGE)
         texte_raison = police.render(raison_mort, True, BLANC)
         ecran.blit(texte_fin, (LARGEUR//2 - texte_fin.get_width()//2, HAUTEUR//2 - 50))
         ecran.blit(texte_raison, (LARGEUR//2 - texte_raison.get_width()//2, HAUTEUR//2 + 50))

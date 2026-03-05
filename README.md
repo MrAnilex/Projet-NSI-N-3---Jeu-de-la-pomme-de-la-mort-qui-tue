@@ -2,7 +2,7 @@
 tout est dans le titre
 
 
-## Note : les assets doivent être dans le même fichier que le jeu, le compte-rendu se trouve sur le Capytale
+## Note : les assets doivent être dans le même fichier que le jeu, le compte-rendu se trouve sur le Capytale, j'ai inclus également les assets pour la version family-friendly du jeu comme vous me l'aviez proposer :)
 
 PS : N'hésitez surtout pas à activer le "mode spécial" en première ligne du programme pour pimenter votre expérience ;)
 

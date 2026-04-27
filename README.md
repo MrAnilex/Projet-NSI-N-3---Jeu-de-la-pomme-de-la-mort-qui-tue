@@ -11,7 +11,7 @@ Il est possible également qu'il y est besoin de modifier le port de la carte mi
 - la possibilité d'utilisé la manette et le clavier en même temps (mode multijoueur en soit !!)
 - le fait de pouvoir sortir des limites sur le bords des fenêtres (n'y prêter pas attention)
 - et tout le reste qui n'est pas listé
-]----------------------------------------------------------------------------[
+
 ## Comment ça se joue ?? (la beta manette je parle, sinon c'est flèche droite et flèche gauche pour le clavier souris)
 
 ### Le jeu fonctionne avec le gyroscope de la carte micro:bit, le sens pour le tenir serait face avec les boutons A et B devant, cable vers vous.

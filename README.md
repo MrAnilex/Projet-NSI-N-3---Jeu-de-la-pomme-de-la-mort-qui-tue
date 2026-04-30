@@ -1,9 +1,9 @@
 # Projet-NSI-N-3---Jeu-de-la-pomme-de-la-mort-qui-tue
 tout est dans le titre
 
-## POUR LA BETA DE LA V2 : Monsieur, pour accéder à la version compatible manette Micro:bit, j'ai importé sur le repo un dossier compressé avec l'ensemble du code que j'ai modifié (la version familyFriendly n'est d'ailleurs malheureusement pas compatible (manque de temps pour la modifier))
+## POUR LA BETA DE LA V2 : Monsieur, pour accéder à la version compatible manette Micro:bit, j'ai crée une branche nommé "V2" (la version familyFriendly n'est d'ailleurs malheureusement pas compatible (manque de temps pour la modifier))
 Dans ce repo se trouve normalement aussi la configuration à importer sur la manette (qui reste la vôtre, sans modification)
-Il est possible également qu'il y est besoin de modifier le port de la carte micro:bit 
+Il est possible également qu'il y est besoin de modifier le port de la carte micro:bit (ça vous le savez)
 
 ### Pour finir, chaque bug que vous trouverez, NE SONT EN REALITÉ PAS DES BUGS MAIS DES FEATURES!! ajouté exclusivement pour la version manette avec fierté ;)
 ça comprends :
@@ -19,8 +19,6 @@ Il est possible également qu'il y est besoin de modifier le port de la carte mi
 ### Pour aller à droite, penchez la manette à droite, vous irez à droite !!
 
 C'est tout ce qui est à comprendre.
-
-## PS/petite update : j'ai oublié d'insérer dans le .zip le code de la carte microbit, du coup il est dans le repo dans les fichiers non-compressé !
 
 ]----------------------------------------------------------------------------[
 ## Ce qui se trouve en dessous c'est l'ancien readme.md

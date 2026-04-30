@@ -1,7 +1,7 @@
 # Projet-NSI-N-3---Jeu-de-la-pomme-de-la-mort-qui-tue
 tout est dans le titre
 
-## POUR LA BETA DE LA V2 : Monsieur, pour accéder à la version compatible manette Micro:bit, j'ai crée une branche nommé "V2" (la version familyFriendly n'est d'ailleurs malheureusement pas compatible (manque de temps pour la modifier))
+## POUR LA BETA DE LA V2 : Monsieur, pour accéder à la version compatible manette Micro:bit, j'ai crée une branche nommé "V2" (la version familyFriendly EST COMPATIBLE !!)
 Dans ce repo se trouve normalement aussi la configuration à importer sur la manette (qui reste la vôtre, sans modification)
 Il est possible également qu'il y est besoin de modifier le port de la carte micro:bit (ça vous le savez)
 

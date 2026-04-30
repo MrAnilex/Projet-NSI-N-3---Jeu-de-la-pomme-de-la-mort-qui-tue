@@ -20,6 +20,8 @@ Il est possible également qu'il y est besoin de modifier le port de la carte mi
 
 C'est tout ce qui est à comprendre.
 
+### vidéo demonstration de la V2 : https://youtu.be/0TAxF7gPuBk
+
 ]----------------------------------------------------------------------------[
 ## Ce qui se trouve en dessous c'est l'ancien readme.md
 

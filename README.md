@@ -20,6 +20,8 @@ Il est possible également qu'il y est besoin de modifier le port de la carte mi
 
 C'est tout ce qui est à comprendre.
 
+## PS/petite update : j'ai oublié d'insérer dans le .zip le code de la carte microbit, du coup il est dans le repo dans les fichiers non-compressé !
+
 ]----------------------------------------------------------------------------[
 ## Ce qui se trouve en dessous c'est l'ancien readme.md
 

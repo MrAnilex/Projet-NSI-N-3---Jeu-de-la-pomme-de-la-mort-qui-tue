@@ -20,6 +20,8 @@ Il est possible également qu'il y est besoin de modifier le port de la carte mi
 
 C'est tout ce qui est à comprendre.
 
+### vidéo demonstration de la V2 : https://youtu.be/0TAxF7gPuBk
+
 ]----------------------------------------------------------------------------[
 ## Ce qui se trouve en dessous c'est l'ancien readme.md
 
@@ -28,3 +30,4 @@ C'est tout ce qui est à comprendre.
 PS : N'hésitez surtout pas à activer le "mode spécial" en première ligne du programme pour pimenter votre expérience ;)
 
 (Pour les gens qui passeront peut-être un jour ici, l'icône du jeu c'était pas mon idée)
+
